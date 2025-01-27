@@ -1,0 +1,10 @@
+COMMANDES : 
+
+Compilation :
+> javac -d ../class ../src/*.java
+
+Execution :
+> java Start [nomFichier]
+
+JavaDoc :
+> javadoc -encoding UTF8 -private -d ../javaDoc ../src/SimpleTableau.java
