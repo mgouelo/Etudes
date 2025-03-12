@@ -1,0 +1,11 @@
+Jeu aléatoire de l'adversaire :
+logPlay = [[10, nan, nan], [-10, 10, nan], [10, -10, 10], [-10, 8, -10], [-10, -7, 10], [2, -10, -10], [-10, 8, -10], [2, -10, -10], [10, -10, -10], [-10, 8, -10], [-10, 7, -10], [-10, -10, 7], [8, -10, -10], [-10, 7, -10], [-2, -10, -10], [-10, -10, 10]]
+
+Winrate : 75.862593 % sur + de 100 millions de parties
+
+
+
+Jeu pseudo aléatoire de l'adversaire :
+logPlay = 
+
+Winrate : 
